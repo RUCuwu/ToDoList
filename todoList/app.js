@@ -67,7 +67,7 @@ removeToDoItem = (idx) => {
 
 return (
     <div className="App">
-    <h1 style={{textDecoration: "underline"}}>Kyra's To Do List</h1>
+    <h1 style={{textDecoration: "underline"}}>React To Do List</h1>
     <input
         className="inputField"
             type="text"
